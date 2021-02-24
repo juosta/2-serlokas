@@ -7,10 +7,14 @@ margin-top: 100px;
 margin-left: 20%;
 margin-right: 20%;
 
-}
 
+}
+img{
+    display: inline-block;
+}
 div{
-    
+    display: inline-block;
+    width: 50%;
     padding-left: 20px;
 }
 
@@ -35,7 +39,7 @@ div{
     position:relative; bottom: 70px;
 }
 
-button{
+a{
     width: 120px;
     height: 40px;
     background-color: #6A6F8C;
@@ -43,5 +47,6 @@ button{
     font-weight: bold;
     border: none;
     position:relative; bottom: 60px;
+    text-transform: uppercase;
 }
 
