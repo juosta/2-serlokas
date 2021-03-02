@@ -9,15 +9,15 @@ margin-top: 10%;
 img{
     
     display: inline-block;
-    width:200px;
+    width:220px;
     float:left;
-    margin-left:20%;
+    margin-left:25%;
     margin-right:10%;
 }
 div{
     display: inline-block;
     float:left;
-    width: 30%;
+    width: 300px;
     margin-top: 3%;
 }
 
