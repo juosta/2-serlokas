@@ -4,10 +4,9 @@ font-family: 'Trebuchet MS', sans-serif;
 font-size: 16px;
 text-align: center;
 margin-top: 10%;
-
 }
+
 img{
-    
     display: inline-block;
     width:220px;
     float:left;
@@ -30,7 +29,6 @@ h1{
     margin-bottom: 5%;
     font-weight: bold;
     font-stretch: ultra-expanded;
-    
 }
 
 .missing{
@@ -38,7 +36,6 @@ h1{
     width:100%;
     color: #6A6F8C;
     font-weight: bold;
-    
 }
 
 .meanwhile{
@@ -46,7 +43,6 @@ h1{
     width:100%;
     color: #6A6F8C;
     font-size: 11px;
-   
 }
 
 a{
