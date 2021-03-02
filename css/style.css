@@ -1,0 +1,57 @@
+body{
+background-color: #EAEBED;
+font-family: 'Trebuchet MS', sans-serif;
+font-size: 16px;
+text-align: center;
+margin-top: 10%;
+}
+
+img{
+    display: inline-block;
+    width:220px;
+    float:left;
+    margin-left:25%;
+    margin-right:10%;
+}
+div{
+    display: inline-block;
+    float:left;
+    width: 300px;
+    margin-top: 3%;
+}
+
+h1{
+    display: inline-block;
+    width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: #374450;
+    margin-bottom: 5%;
+    font-weight: bold;
+    font-stretch: ultra-expanded;
+}
+
+.missing{
+    display: inline-block;
+    width:100%;
+    color: #6A6F8C;
+    font-weight: bold;
+}
+
+.meanwhile{
+    display: inline-block;
+    width:100%;
+    color: #6A6F8C;
+    font-size: 11px;
+}
+
+a{
+    display: inline-block;
+    background-color: #6A6F8C;
+    color:whitesmoke;
+    font-weight: bold;
+    padding: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
